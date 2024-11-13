@@ -1,0 +1,5 @@
+yml
+local:
+  service: local
+  adapter: local
+  path: /app/storage
