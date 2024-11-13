@@ -1,1 +1,1 @@
-web: npm run start s -p $PORT -b 0.0.0.0
+web: npm run start
